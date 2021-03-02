@@ -1,3 +1,3 @@
 /*
- log code
+ log code example
  */
