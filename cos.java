@@ -1,0 +1,3 @@
+/*
+ cos example code
+ */
